@@ -7,7 +7,7 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-div.card {
+main.card {
   text-align: center;
   width: 300px;
   background-color: white;
